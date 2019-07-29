@@ -1,2 +1,12 @@
-# anagrams-kata-29-07-2019
-Anagrams kata
+# anagrams-kata-27-07-2019
+Anagrams kata by Cyber dojo
+
+Write a program to generate all potential
+anagrams of an input string.
+
+For example, the potential anagrams of "biro" are
+
+biro bior brio broi boir bori
+ibro ibor irbo irob iobr iorb
+rbio rboi ribo riob roib robi
+obir obri oibr oirb orbi orib
